@@ -1,0 +1,5 @@
+  =>  Template Name    : Restoran - Bootstrap Restaurant Template
+
+  =>  Template Author  : N A Araf
+
+  =>  Author Website   : https://naaraf.netlify.app/
